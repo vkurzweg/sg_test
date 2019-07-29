@@ -168,16 +168,16 @@
       "id": "0417BDB9-0AA7-4F6E-9597-9FF4538C4E34"
     },
     {
+      "class": "text",
+      "id": "79F0C047-3C99-433B-8648-7DEA8B1AA85B"
+    },
+    {
       "class": "group",
-      "id": "0A5D0EF7-06CD-4328-9172-E82D0420ECDB"
+      "id": "C0350838-F779-4608-82A5-038C710808D7"
     },
     {
       "class": "symbolInstance",
       "id": "FEBC6A69-A9BE-41C8-AF02-214104368480"
-    },
-    {
-      "class": "text",
-      "id": "79F0C047-3C99-433B-8648-7DEA8B1AA85B"
     }
   ],
   "layout": {

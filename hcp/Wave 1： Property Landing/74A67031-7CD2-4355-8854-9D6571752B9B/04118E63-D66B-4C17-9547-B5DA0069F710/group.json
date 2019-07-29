@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1152BBF8-8A9D-4029-87ED-09E64402AAA3",
+  "do_objectID": "04118E63-D66B-4C17-9547-B5DA0069F710",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3837479A-6410-4D42-8151-76B05E1E01C2",
+    "do_objectID": "D63756D1-77A6-4AC8-9121-2139FAB1794F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "643B8022-4E1C-4494-BA9F-1CEFB5EBB7A6",
+    "do_objectID": "DAC6E087-5932-4585-94F7-FF7CFA147E0D",
     "height": 37,
-    "width": 283,
-    "x": 600,
-    "y": 0
+    "width": 1182,
+    "x": 128,
+    "y": 1296
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "83B21BE9-A437-4BE5-A7C5-56D9758504B7"
+    "do_objectID": "9CFB51B7-F0EC-483D-A6B0-C380E6437F9B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,22 +33,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "AD8F94CC-9481-419B-ACDA-98AFD5F29E5A"
+      "class": "group",
+      "id": "44045198-3016-450D-8FE8-9BE4B69034A7"
     },
     {
-      "class": "text",
-      "id": "46F09EC7-2CAD-4E9F-9539-A63F75238281"
+      "class": "group",
+      "id": "59AC8C70-9E2B-486E-96E7-FB862F195B6F"
     },
     {
-      "class": "bitmap",
-      "id": "318EEE9C-1688-4584-9050-EF74D63467BC"
+      "class": "group",
+      "id": "E6C8149D-A788-473C-B174-66B13556E4E1"
+    },
+    {
+      "class": "group",
+      "id": "4D316F65-97CA-4DD6-A207-E0AD1972C3D2"
     }
   ],
-  "name": "Group 5",
+  "name": "Group 6",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,7 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "923F8EBD-C7A2-40C1-BC10-0FFBED5756A0",
+    "do_objectID": "5125C480-9DBE-4F45-8F80-4379FC034A9F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

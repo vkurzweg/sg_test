@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1152BBF8-8A9D-4029-87ED-09E64402AAA3",
+  "do_objectID": "205573E8-5BD9-440D-B350-F2BB6EA7FA68",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3837479A-6410-4D42-8151-76B05E1E01C2",
+    "do_objectID": "A9A46CE1-9DF0-4455-A2A3-5B10DE1C0633",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "643B8022-4E1C-4494-BA9F-1CEFB5EBB7A6",
+    "do_objectID": "BBF537B9-3CD7-49A9-9681-F466A007577F",
     "height": 37,
     "width": 283,
     "x": 600,
@@ -24,7 +24,7 @@
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "83B21BE9-A437-4BE5-A7C5-56D9758504B7"
+    "do_objectID": "E559C02A-9444-4D6A-9112-F97D7192BE49"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,15 +37,15 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "AD8F94CC-9481-419B-ACDA-98AFD5F29E5A"
+      "id": "404A3923-89A2-4B27-94E2-48456CF524E1"
     },
     {
       "class": "text",
-      "id": "46F09EC7-2CAD-4E9F-9539-A63F75238281"
+      "id": "76F446F0-AB8F-4ECE-9DD9-A5B9B0332ADD"
     },
     {
       "class": "bitmap",
-      "id": "318EEE9C-1688-4584-9050-EF74D63467BC"
+      "id": "DDD92607-1842-452F-A3EB-F82A1D7D2BCA"
     }
   ],
   "name": "Group 5",
@@ -56,7 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "923F8EBD-C7A2-40C1-BC10-0FFBED5756A0",
+    "do_objectID": "C4A5FCDE-409B-4DA7-A807-A11AFC17B1A0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

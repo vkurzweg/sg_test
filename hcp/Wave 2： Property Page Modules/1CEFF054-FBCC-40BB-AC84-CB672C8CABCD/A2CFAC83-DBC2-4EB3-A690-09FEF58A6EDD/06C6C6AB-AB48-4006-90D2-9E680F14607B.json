@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 21,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 3,
-        "location": 9
+        "location": 21
       }
     ],
-    "string": "Operator\nHCA"
+    "string": "Hospital affiliation\nHCA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 78,
+    "width": 155,
     "x": 0,
     "y": 230
   },
-  "glyphBounds": "{{0, 4}, {77, 39}}",
+  "glyphBounds": "{{1, 4}, {153, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Operator HCA",
+  "name": "Hospital affiliation",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

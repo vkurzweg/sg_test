@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B3080609-BF69-4CC6-9107-9AD366722728",
-    "height": 2467,
+    "height": 2391,
     "width": 1440,
     "x": -900,
     "y": -1322
@@ -44,7 +44,7 @@
     "do_objectID": "7D4DBB0C-F99B-4000-BF51-53BAD4073FEA"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,58 +104,6 @@
       "id": "F5DF3684-396E-4458-835A-9E2E7057A775"
     },
     {
-      "class": "group",
-      "id": "8BCC4F0B-5774-42AC-B61F-816967362196"
-    },
-    {
-      "class": "group",
-      "id": "0ECE2E28-20AF-4718-BFC9-F1B8BD54C62C"
-    },
-    {
-      "class": "text",
-      "id": "6C99B5C8-F778-4DC2-9D79-EBE78A4D41DC"
-    },
-    {
-      "class": "group",
-      "id": "343B7E7B-7530-4853-8520-8ABE35FD1538"
-    },
-    {
-      "class": "text",
-      "id": "0BDAD2BB-98C6-461A-ADF1-3CFE1294FE09"
-    },
-    {
-      "class": "group",
-      "id": "9AAC218F-C2CE-4750-93C4-1F4533FED79E"
-    },
-    {
-      "class": "text",
-      "id": "33F00BED-3C95-43BC-B199-5C159D0B706A"
-    },
-    {
-      "class": "group",
-      "id": "CE106E26-60CE-4236-B2DD-FCB3992DA651"
-    },
-    {
-      "class": "text",
-      "id": "8C38722C-C2C8-4A70-AB03-61A15692A850"
-    },
-    {
-      "class": "group",
-      "id": "F9A566EA-E922-4E10-849B-3CC61FB71C4F"
-    },
-    {
-      "class": "text",
-      "id": "3886255C-B2F8-4C0D-8E08-1BFDD05B8B21"
-    },
-    {
-      "class": "group",
-      "id": "E71E4D89-95FA-4F46-AD5C-392E1AF24E87"
-    },
-    {
-      "class": "text",
-      "id": "9A92E2B2-468C-416E-A2A3-EA6E822A7A8A"
-    },
-    {
       "class": "text",
       "id": "63C3AB7E-81FC-4CD6-B018-0C076D7C04EB"
     },
@@ -164,16 +112,20 @@
       "id": "09081DD6-EA89-4D13-BC97-18987A27C8D7"
     },
     {
-      "class": "group",
-      "id": "0417BDB9-0AA7-4F6E-9597-9FF4538C4E34"
-    },
-    {
       "class": "text",
       "id": "79F0C047-3C99-433B-8648-7DEA8B1AA85B"
     },
     {
       "class": "group",
-      "id": "C0350838-F779-4608-82A5-038C710808D7"
+      "id": "963DE46A-5A5B-47E9-8D0A-DF803A726F97"
+    },
+    {
+      "class": "group",
+      "id": "222643A9-17E0-42AA-A4C8-4712311C4BE8"
+    },
+    {
+      "class": "group",
+      "id": "C1CF00A5-214C-44BA-8EB7-4436F20719A1"
     },
     {
       "class": "symbolInstance",

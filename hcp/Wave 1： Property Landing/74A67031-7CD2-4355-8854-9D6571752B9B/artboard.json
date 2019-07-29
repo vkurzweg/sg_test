@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E030CAF1-A134-4E6B-99A1-CDBF2CDAA9C6",
-    "height": 2467,
+    "height": 2396,
     "width": 1440,
     "x": 640,
     "y": -1322
@@ -44,7 +44,7 @@
     "do_objectID": "4D2CB00B-7C27-4B3A-8A41-6B186B1E3E11"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,10 +70,6 @@
     {
       "class": "symbolInstance",
       "id": "DAB344B1-4764-468C-A0DA-58B7075D4E63"
-    },
-    {
-      "class": "group",
-      "id": "B38F223F-1C61-4E05-9C65-64B6EEF873D1"
     },
     {
       "class": "rectangle",
@@ -110,46 +106,6 @@
     {
       "class": "bitmap",
       "id": "50C095F4-27DC-4698-B808-8E20881166B8"
-    },
-    {
-      "class": "group",
-      "id": "17AC34B3-34B1-4E20-9A05-E796CD641E4A"
-    },
-    {
-      "class": "text",
-      "id": "B6AAA611-5F98-45F8-A817-4FD1943A6C18"
-    },
-    {
-      "class": "group",
-      "id": "A3C57806-ED09-46F1-AD64-43E7CAAC0805"
-    },
-    {
-      "class": "text",
-      "id": "EE810718-6BEC-4F8F-86F2-0120CDF7BB50"
-    },
-    {
-      "class": "group",
-      "id": "0FE511AA-4DC9-4FC3-9C04-D61030F6317F"
-    },
-    {
-      "class": "text",
-      "id": "517AFBD9-F57D-4C47-B4F6-9F523B3EE118"
-    },
-    {
-      "class": "group",
-      "id": "40E0A876-2591-4128-9CB6-37C4F866E12D"
-    },
-    {
-      "class": "text",
-      "id": "254378D3-CB03-4662-AE54-0328062082D8"
-    },
-    {
-      "class": "group",
-      "id": "669BE8D4-BE3B-4028-AAF7-E8E2108B5BC2"
-    },
-    {
-      "class": "text",
-      "id": "B3C53386-7DF6-48B8-931B-CDEE478ADFF2"
     },
     {
       "class": "text",
@@ -201,7 +157,19 @@
     },
     {
       "class": "group",
-      "id": "04118E63-D66B-4C17-9547-B5DA0069F710"
+      "id": "654649D3-6F41-4453-8239-B5257643DC69"
+    },
+    {
+      "class": "group",
+      "id": "9FA88772-D64B-4B3E-980D-AE18F8325942"
+    },
+    {
+      "class": "group",
+      "id": "0BF17A9C-774C-471C-B581-BEB3A3E1A1B0"
+    },
+    {
+      "class": "group",
+      "id": "14973E20-C124-4BAC-9AE1-4847D38024C3"
     }
   ],
   "layout": {

@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8B344F14-E664-458B-994A-77E2AFBD33E4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83435BA1-F9BE-4473-A66E-893C1F2DDBDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08FA1557-AB4A-44AB-820A-0FA68DC497DE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B8A7840-F7E5-4DF4-A3DD-95038855FC14",
+    "height": 1481,
+    "width": 1440,
+    "x": 14679,
+    "y": -512
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ED65C41E-8D92-41BB-BC78-0164417C4B3F"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "21FCFC82-03DB-446F-ACFF-83829EDFA3AD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B2037858-E963-44EF-B595-6AE93FF84AC2"
+    },
+    {
+      "class": "text",
+      "id": "2ED51CF3-CA23-4E05-9007-E442DDF0D013"
+    },
+    {
+      "class": "group",
+      "id": "1F3DA764-F2B1-4EB9-A92C-DBB0BDCCBC43"
+    },
+    {
+      "class": "text",
+      "id": "47EC9A7A-0C5B-4273-A1FF-D1B743B1EE4A"
+    },
+    {
+      "class": "text",
+      "id": "A9D37090-0C6F-4A19-A50C-91C612AE96C0"
+    },
+    {
+      "class": "group",
+      "id": "E7189191-1BC8-4DBE-9138-7CE651364553"
+    },
+    {
+      "class": "group",
+      "id": "743F1976-3BE9-4771-A9F4-FE016C0554C5"
+    },
+    {
+      "class": "group",
+      "id": "61CC762F-8A8C-4829-BDA4-33AB4D65CA5A"
+    },
+    {
+      "class": "group",
+      "id": "41EF953C-2644-46D4-B162-3D79EC3EC78B"
+    },
+    {
+      "class": "group",
+      "id": "8EBC5076-2069-45E1-A2D8-C87CFB069721"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "908F1E2B-0F32-4D95-B219-DE296E31F8BD"
+    },
+    {
+      "class": "group",
+      "id": "1211AAFB-6BD5-4FDF-A300-BDD97DA25E9C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 104,
+    "do_objectID": "7A08D70B-2A49-4095-8519-358072A40B3D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Investor Resources",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7648BE4-B11F-4AA1-B320-CA46E58D4F5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CD83B9A-A6FF-4B9C-86E7-F342A1B5CA4C",
+    "guides": [
+    ]
+  }
+}

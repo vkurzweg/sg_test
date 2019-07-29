@@ -16,10 +16,15 @@
       }
     },
     "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bf3d954d069a92776da0c33ad11d474d6af78460.pdf",
+        "_ref_class": "MSImageData"
+      }
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "53cd54c0-b1a0-11e9-9ca8-576c905d0fe3",
+  "do_objectID": "17BA1CF0-6AD5-4C6B-A587-2511003321AE",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -37,8 +42,17 @@
     "version": 119
   },
   "pages": [
+    "Sitemap",
     "Wave 1: Landing + Menu",
-    "Symbols"
+    "Wave 1: Property Landing",
+    "Wave 1: Investor Relations",
+    "Wave 2: Property Page Modules",
+    "Wave 2: Leadership Page",
+    "Wave 2: Search Results",
+    "Wave 2: About Us",
+    "Wave 3: Corporate Responsibility",
+    "Wave 3: Careers",
+    "Wave 3: General Content"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

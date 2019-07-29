@@ -16,33 +16,60 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "SuisseIntl-SemiBold",
+              "size": 20
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "SuisseIntl-Light",
               "size": 20
             }
           },
-          "kerning": 0.7999998823529411,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
-        "location": 0
+        "length": 18,
+        "location": 1
       }
     ],
-    "string": "Executive Team"
+    "string": " Board of Directors"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0A6DAEF8-20EE-443A-8A52-A3FBBEF160FB",
+  "do_objectID": "45028733-E0EE-44E8-846C-36CC7AAA669A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "98DF8819-5FA6-41DC-B7B9-F770C0426F39",
+    "do_objectID": "BD60B09B-DB5C-4505-8F73-B1E78DEFEDD4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E33DBF68-B252-4376-B7C9-7E2940876DFB",
-    "height": 28,
-    "width": 155,
-    "x": 0,
-    "y": 0
+    "do_objectID": "71F0B2B0-8BD9-4DC8-90C1-C7980DAECCE0",
+    "height": 26,
+    "width": 163,
+    "x": 221,
+    "y": 2
   },
-  "glyphBounds": "{{7, 6}, {147, 16}}",
+  "glyphBounds": "{{6, 5}, {156, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Executive Team",
+  "name": "Board of Directors",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,13 +103,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B9D48804-C3AD-4812-919C-3E494683F1ED",
+    "do_objectID": "11CADD86-F84C-4D02-BD03-6B650C0DF7BF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DD7A5C11-4C45-49A7-914B-E53A356AE62A",
+      "do_objectID": "AAF358D4-B2AC-449F-8794-452A24F14426",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,16 +121,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SuisseIntl-Light",
+            "name": "SuisseIntl-SemiBold",
             "size": 20
           }
         },
-        "kerning": 0.7999998823529411,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -111,5 +137,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 15,
         "location": 7
       }
     ],
-    "string": "Segment\nSenior Housing NNN"
+    "string": "Segment\nMedical Office"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 165,
+    "width": 114,
     "x": 0,
     "y": 54
   },
-  "glyphBounds": "{{0, 4}, {164, 42}}",
+  "glyphBounds": "{{0, 4}, {114, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Segment Senior Housi",
+  "name": "Segment Medical Offi",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

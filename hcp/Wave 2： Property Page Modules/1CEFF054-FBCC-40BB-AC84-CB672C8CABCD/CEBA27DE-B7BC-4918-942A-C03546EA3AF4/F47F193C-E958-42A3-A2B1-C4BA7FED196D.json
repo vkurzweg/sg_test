@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 45,
+        "length": 33,
         "location": 7
       }
     ],
-    "string": "Address\n10001 W Palmeras Dr\nSun City, Arizona  85373"
+    "string": "Address\n7777 Forest Ln.\nDallas, TX 75230"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -84,7 +84,7 @@
     "x": 0,
     "y": 54
   },
-  "glyphBounds": "{{0, 4}, {192, 66}}",
+  "glyphBounds": "{{0, 4}, {134, 65}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Address 10001 W Palm",
+  "name": "Address 7777 Forest",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

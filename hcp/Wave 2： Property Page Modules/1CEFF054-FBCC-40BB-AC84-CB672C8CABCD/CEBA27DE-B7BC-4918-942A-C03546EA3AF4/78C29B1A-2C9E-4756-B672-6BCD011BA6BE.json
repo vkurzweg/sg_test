@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SuisseIntl-Bold",
+              "name": "SuisseIntl-SemiBold",
               "size": 18
             }
           },
@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 11,
         "location": 3
       }
     ],
-    "string": "MSA\nPhoenix, AZ"
+    "string": "MSA\nDallas, TX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 95,
+    "width": 79,
     "x": 0,
     "y": 166
   },
-  "glyphBounds": "{{1, 4}, {93, 41}}",
+  "glyphBounds": "{{1, 4}, {78, 41}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "MSA Phoenix, AZ",
+  "name": "MSA Dallas, TX",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -117,7 +117,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SuisseIntl-Bold",
+            "name": "SuisseIntl-SemiBold",
             "size": 18
           }
         },

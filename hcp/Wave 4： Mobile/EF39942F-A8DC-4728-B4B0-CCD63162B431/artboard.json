@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8F2DDBDB-FAB2-4FD4-B94C-010BFB67A70D",
+  "do_objectID": "EF39942F-A8DC-4728-B4B0-CCD63162B431",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
+    "height": 694,
     "width": 320,
-    "x": -160,
+    "x": 680,
     "y": -513
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,27 +51,31 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "E9F1755F-B5B6-4D4E-B679-E281EBB55A01"
+      "id": "FB3D8ED9-F524-42F6-A7CF-C0D13D51219A"
+    },
+    {
+      "class": "text",
+      "id": "4A40BF89-EA5F-41C0-A75F-DE043BD2E766"
+    },
+    {
+      "class": "group",
+      "id": "BED136BC-493E-497F-A803-C6DBBC6E5475"
+    },
+    {
+      "class": "text",
+      "id": "51E47EA0-3DFA-4CC2-9CB4-A199E395CA33"
+    },
+    {
+      "class": "text",
+      "id": "4C80DEE5-5001-48F1-8CB4-A2B27B87A92F"
     },
     {
       "class": "rectangle",
-      "id": "71A004FA-4C18-4304-BF7D-0F68364EF26F"
+      "id": "B07A72C2-FB35-49AD-A6C9-62894E69D7C6"
     },
     {
       "class": "text",
-      "id": "20A4796A-81EB-4260-85E4-3E26460BEDC7"
-    },
-    {
-      "class": "text",
-      "id": "C0EADC17-39CD-471F-BEBA-8A72C4E8F319"
-    },
-    {
-      "class": "group",
-      "id": "FB4A8C22-97C9-456D-BCC8-9A674471B2F6"
-    },
-    {
-      "class": "group",
-      "id": "1019F1E3-2362-440A-9991-3BAD3AEBA01B"
+      "id": "44F05626-DB87-4269-8F1C-55327DF488C8"
     }
   ],
   "layout": {
@@ -89,7 +93,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Landing",
+  "name": "Landing Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

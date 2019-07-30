@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SuisseIntl-SemiBold",
+              "name": "SuisseIntl-Light",
               "size": 20
             }
           },
@@ -27,8 +27,7 @@
             "maximumLineHeight": 28,
             "minimumLineHeight": 28
           },
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 1
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 14,
         "location": 0
@@ -58,9 +57,9 @@
     "height": 28,
     "width": 171,
     "x": 0,
-    "y": 1
+    "y": 0
   },
-  "glyphBounds": "{{12, 6}, {158, 16}}",
+  "glyphBounds": "{{23, 6}, {147, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +94,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SuisseIntl-SemiBold",
+            "name": "SuisseIntl-Light",
             "size": 20
           }
         },
@@ -106,8 +105,7 @@
           "maximumLineHeight": 28,
           "minimumLineHeight": 28
         },
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 1
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

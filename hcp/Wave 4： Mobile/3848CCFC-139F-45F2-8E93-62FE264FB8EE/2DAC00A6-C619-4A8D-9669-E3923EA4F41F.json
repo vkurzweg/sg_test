@@ -9,40 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.02103147644927536,
+            "green": 0.02090644175697022,
+            "red": 0.02083350485312556
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SuisseIntl-Light",
-              "size": 20
+              "size": 12
             }
           },
-          "kerning": 0.7999998823529411,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Senior Team"
+    "string": "INVESTOR RELATIONS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC5D66D7-83E4-451B-9F8B-0BAFD011A82F",
+  "do_objectID": "2DAC00A6-C619-4A8D-9669-E3923EA4F41F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0EE42B12-EC16-47E5-BEC2-AC95495636B1",
+    "do_objectID": "61875896-DD4B-4209-9481-E60B46DBBAF2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EBC915C7-E5DD-4FFA-8333-1B2A47AD07A4",
-    "height": 28,
-    "width": 137,
-    "x": 448,
-    "y": 0
+    "do_objectID": "64DB4AF4-0EDA-4839-8177-42D04252ED26",
+    "height": 16,
+    "width": 123,
+    "x": 31,
+    "y": 787
   },
-  "glyphBounds": "{{18, 6}, {118, 16}}",
+  "glyphBounds": "{{1, 3}, {122, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Senior Team",
+  "name": "INVESTOR RELATIONS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,34 +75,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4872B05E-F4A4-49FB-BB5D-30F25989CE44",
+    "do_objectID": "781A49EA-1EA5-4B24-A31E-3E5423D920D2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C56DAC06-AD79-444B-833F-1798B582011F",
+      "do_objectID": "490F020E-38F7-4A55-BA4B-C84CF880885A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.02103147644927536,
+          "green": 0.02090644175697022,
+          "red": 0.02083350485312556
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SuisseIntl-Light",
-            "size": 20
+            "size": 12
           }
         },
-        "kerning": 0.7999998823529411,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -111,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

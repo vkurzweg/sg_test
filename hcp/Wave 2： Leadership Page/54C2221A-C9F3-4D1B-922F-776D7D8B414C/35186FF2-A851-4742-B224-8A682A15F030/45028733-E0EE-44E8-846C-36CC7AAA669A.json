@@ -26,38 +26,11 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 1,
+        "length": 19,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "SuisseIntl-Light",
-              "size": 20
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 18,
-        "location": 1
       }
     ],
     "string": " Board of Directors"
@@ -82,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "71F0B2B0-8BD9-4DC8-90C1-C7980DAECCE0",
     "height": 26,
-    "width": 163,
+    "width": 177,
     "x": 221,
     "y": 2
   },
-  "glyphBounds": "{{6, 5}, {156, 16}}",
+  "glyphBounds": "{{5, 5}, {171, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +104,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

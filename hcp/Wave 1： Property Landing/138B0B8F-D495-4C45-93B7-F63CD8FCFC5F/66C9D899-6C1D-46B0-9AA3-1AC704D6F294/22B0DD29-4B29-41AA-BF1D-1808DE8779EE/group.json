@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "5F5E5751-1C8B-46EF-B5F6-A38994712967",
     "height": 37,
-    "width": 1182,
+    "width": 1185,
     "x": 0,
     "y": 101
   },
@@ -50,6 +50,10 @@
     {
       "class": "group",
       "id": "8B9A71D9-2044-47F7-AAE2-9215EB2532AF"
+    },
+    {
+      "class": "group",
+      "id": "3D6C9FD3-F761-45E4-B506-7036B6938EDA"
     }
   ],
   "name": "Group 6",

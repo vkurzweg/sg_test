@@ -44,7 +44,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SuisseIntl",
+              "name": "SuisseIntl-Light",
               "size": 18
             }
           },
@@ -60,7 +60,7 @@
         "location": 10
       }
     ],
-    "string": "Buildings\n4"
+    "string": "Buildings\n5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,9 +80,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 79,
+    "width": 80,
     "x": 0,
-    "y": 142
+    "y": 132
   },
   "glyphBounds": "{{0, 4}, {79, 39}}",
   "hasClippingMask": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Buildings 4",
+  "name": "Buildings 5",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

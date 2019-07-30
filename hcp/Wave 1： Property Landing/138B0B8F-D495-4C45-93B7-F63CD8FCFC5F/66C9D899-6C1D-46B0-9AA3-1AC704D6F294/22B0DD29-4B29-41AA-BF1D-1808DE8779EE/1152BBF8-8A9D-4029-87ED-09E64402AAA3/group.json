@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "643B8022-4E1C-4494-BA9F-1CEFB5EBB7A6",
     "height": 37,
-    "width": 283,
-    "x": 600,
+    "width": 225,
+    "x": 480,
     "y": 0
   },
   "groupLayout": {
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",

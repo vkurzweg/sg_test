@@ -44,7 +44,7 @@
     "do_objectID": "4D2CB00B-7C27-4B3A-8A41-6B186B1E3E11"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,16 +96,12 @@
       "id": "4E9FD792-3BC5-4838-A83E-6F9FCD810335"
     },
     {
-      "class": "rectangle",
-      "id": "52083B00-166F-4EE3-AC85-DAF56893CD36"
+      "class": "group",
+      "id": "5848208A-0853-4117-86A8-295D872628EF"
     },
     {
-      "class": "text",
-      "id": "8EB84252-26FF-4A88-A8EA-9F26E729E29A"
-    },
-    {
-      "class": "bitmap",
-      "id": "50C095F4-27DC-4698-B808-8E20881166B8"
+      "class": "group",
+      "id": "E86A7571-D239-4D3B-9AF2-B8A5DC77990F"
     },
     {
       "class": "text",
@@ -170,6 +166,10 @@
     {
       "class": "group",
       "id": "14973E20-C124-4BAC-9AE1-4847D38024C3"
+    },
+    {
+      "class": "group",
+      "id": "0A7FB7CE-74C4-41D5-836E-456B1FD2BE10"
     }
   ],
   "layout": {

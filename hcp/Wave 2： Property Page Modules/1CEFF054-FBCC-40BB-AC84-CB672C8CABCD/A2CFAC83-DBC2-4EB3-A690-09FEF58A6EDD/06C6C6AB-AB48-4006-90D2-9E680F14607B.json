@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 15,
         "location": 0
       },
       {
@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
-        "location": 21
+        "length": 12,
+        "location": 15
       }
     ],
-    "string": "Hospital affiliation\nHCA"
+    "string": "Square footage\n2.05 million"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 155,
+    "width": 132,
     "x": 0,
-    "y": 230
+    "y": 210
   },
-  "glyphBounds": "{{1, 4}, {153, 39}}",
+  "glyphBounds": "{{0, 4}, {131, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hospital affiliation",
+  "name": "Square footage 2.05",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

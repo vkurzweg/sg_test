@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 694,
+    "height": 729,
     "width": 320,
     "x": 680,
     "y": -513
@@ -93,7 +93,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Landing Copy",
+  "name": "Mobile - About Us",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

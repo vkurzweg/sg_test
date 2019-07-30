@@ -109,8 +109,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "Mobile - Menu",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

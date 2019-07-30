@@ -72,28 +72,12 @@
       "id": "DAB344B1-4764-468C-A0DA-58B7075D4E63"
     },
     {
-      "class": "rectangle",
-      "id": "C3C05A14-1451-4B8A-A93B-6954A9E01F7C"
+      "class": "group",
+      "id": "0616D66B-831D-4989-A16D-701EA85B5269"
     },
     {
-      "class": "text",
-      "id": "76B067F7-C5F9-49E3-84ED-7FEB02516E3B"
-    },
-    {
-      "class": "bitmap",
-      "id": "F9204D00-F0A3-42CB-88C8-9AFBC59391C5"
-    },
-    {
-      "class": "rectangle",
-      "id": "D159C672-4F00-489E-A3D4-130B8074509D"
-    },
-    {
-      "class": "text",
-      "id": "2C84E9C6-4D56-47F8-A5D0-B9F0C14BD459"
-    },
-    {
-      "class": "bitmap",
-      "id": "4E9FD792-3BC5-4838-A83E-6F9FCD810335"
+      "class": "group",
+      "id": "5997EAF7-C907-4037-8B84-D52D30789A39"
     },
     {
       "class": "group",

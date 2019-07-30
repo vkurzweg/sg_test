@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -89,7 +89,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Landing",
+  "name": "Mobile - Landing",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

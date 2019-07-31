@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Careers"
+    "string": "Working at NewCo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "B3238047-C406-48EA-95B8-78B0E73DEA5D",
     "height": 42,
-    "width": 121,
+    "width": 278,
     "x": 0,
     "y": 247
   },
-  "glyphBounds": "{{1, 8}, {119, 25}}",
+  "glyphBounds": "{{0, 8}, {277, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Careers",
+  "name": "Working at NewCo",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Leadership"
+    "string": "Leadership Team"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "896A3662-5ECB-413A-ADBE-8BE1CA990CBB",
     "height": 42,
-    "width": 171,
+    "width": 264,
     "x": 0,
     "y": 63
   },
-  "glyphBounds": "{{2, 8}, {168, 30}}",
+  "glyphBounds": "{{2, 8}, {260, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Leadership",
+  "name": "Leadership Team",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -1,0 +1,137 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.02103147644927536,
+            "green": 0.02090644175697022,
+            "red": 0.02083350485312556
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SuisseIntl-Bold",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 39,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.02103147644927536,
+            "green": 0.02090644175697022,
+            "red": 0.02083350485312556
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SuisseIntl-Light",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1757,
+        "location": 39
+      }
+    ],
+    "string": "HCP Reports First Quarter 2019 Results\n\nIRVINE, Calif., May 1, 2019 /PRNewswire/ -- HCP, Inc. (NYSE: HCP) today announced results for the first quarter ended March 31, 2019. For the quarter, we generated net income of $0.13 per share, NAREIT FFO of $0.43 per share, FFO as adjusted of $0.44 per share and blended Total Portfolio SPP Cash NOI growth of 3.0%.\n\nFIRST QUARTER 2019 FINANCIAL PERFORMANCE AND RECENT HIGHLIGHTS\n\n–      Acquired a $445 million portfolio of nine recently-built, continuum of care, senior housing communities concentrated primarily in Florida and operated by Discovery Senior Living (\"Discovery\")\n\n–      Acquired a $113 million portfolio of three recently-built senior housing communities in California operated by Oakmont Senior Living (\"Oakmont\"), and converted four existing high-quality Oakmont-operated communities in California from triple-net leases to RIDEA structures\n\n–      Completed the conversion of 18 senior housing communities operated by Sunrise Senior Living (\"Sunrise\") from triple-net leases to RIDEA structures\n\n–      Added three new medical office developments with a total estimated spend of $70 million to our HCA Healthcare (\"HCA\") development program\n\n–      Closed on the previously announced life science acquisition of 87 CambridgePark Drive for $71 million and an adjacent land site, 101 CambridgePark Drive, for consideration of up to $27 million\n\n–      Received a credit rating upgrade from Moody's to Baa1 from Baa2\n\n–      Published our 8th annual Sustainability Report aligned with the Global Reporting Initiative (\"GRI\"), highlighting our environmental, social and governance (\"ESG\") goals and achievements\n\n–      Reaffirmed full-year 2019 FFO as adjusted and total portfolio SPP Cash NOI guidance\n\nFIRST QUARTER COMPARISON\n\nEtc……."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A73039AD-AF65-4843-9554-FD65F968D88A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1872,
+    "width": 262,
+    "x": 34,
+    "y": 975
+  },
+  "glyphBounds": "{{0, 4}, {260, 1863}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "HCP Reports First Qu",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.02103147644927536,
+          "green": 0.02090644175697022,
+          "red": 0.02083350485312556
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SuisseIntl-Bold",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

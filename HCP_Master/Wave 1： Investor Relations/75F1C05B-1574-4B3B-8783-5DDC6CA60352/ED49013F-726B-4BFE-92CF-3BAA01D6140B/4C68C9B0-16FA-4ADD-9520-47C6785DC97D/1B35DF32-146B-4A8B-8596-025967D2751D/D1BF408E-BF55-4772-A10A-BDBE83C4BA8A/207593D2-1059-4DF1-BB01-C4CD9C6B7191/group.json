@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "207593D2-1059-4DF1-BB01-C4CD9C6B7191",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFB93B83-7F3F-4BE7-923A-C8C82DD6EB89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "675B530A-3DC5-4DE0-8137-85D0580A16C0",
+    "height": 457,
+    "width": 1182,
+    "x": 0.2841648590019759,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6E33537B-A1EA-4901-A971-29E8778AF65D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DC9B39BF-0842-415D-8570-E717852602BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C2B75F79-23AA-4469-BA1E-F9AE04E79D5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB38C0E1-2544-4F30-9CF1-17980979890E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9B03519-DB10-4DC4-9535-5BB9FFD42DEF"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1DB1006-5015-4666-A286-D92B05520B7C"
+    },
+    {
+      "class": "rectangle",
+      "id": "412CD2AD-AE53-4180-B5B2-4D0A494AD8D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "2CB59CD1-1DB0-42D3-82B2-D6D643B4354B"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2AC9201-0775-4608-B429-23021E72BFC3"
+    },
+    {
+      "class": "rectangle",
+      "id": "68434681-D374-495F-84BE-1FFA4AD9AAFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B701BD9-340E-439B-9331-133FF6981199"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F8567DA-C08C-4097-B952-13C8E018FD2D"
+    }
+  ],
+  "name": "Table Structure",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1341778D-DDD3-4869-AB89-EE4B8B32A858",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

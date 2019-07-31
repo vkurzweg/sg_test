@@ -1,0 +1,204 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BE8B73F8-D23F-4528-A8E2-11A10B5DCDE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76B324EB-E824-4279-AD21-7A1E48072DEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72F01262-461E-4A1B-9476-66FB25C10DF6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "668EF05F-9E3A-4D93-ACC6-C58E227FA344",
+    "height": 1255,
+    "width": 320,
+    "x": 5607,
+    "y": -513
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C6299CD0-5304-4225-840F-E34EA35E93A8"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E592C45F-C718-489B-B0AD-5AB0BBE1A81B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DEBAC1F1-55B6-42CA-B2D5-B965DADF5EF0"
+    },
+    {
+      "class": "text",
+      "id": "9D256A88-2B19-4570-A916-0DF2658EB74B"
+    },
+    {
+      "class": "group",
+      "id": "226F70D9-4D91-4691-8674-986BD7675116"
+    },
+    {
+      "class": "text",
+      "id": "0B477FE7-123C-4C11-A6D7-E6ABDFC786FB"
+    },
+    {
+      "class": "text",
+      "id": "2F7B6795-3564-4498-8781-92E6415B95A0"
+    },
+    {
+      "class": "text",
+      "id": "F9959F6C-6D55-4D6A-8215-8C3F2C665324"
+    },
+    {
+      "class": "group",
+      "id": "C2BD1F58-6AED-4E96-8B6C-730A60992456"
+    },
+    {
+      "class": "text",
+      "id": "DC6BD02E-6ADB-4A51-84A5-F62B51D69DC1"
+    },
+    {
+      "class": "text",
+      "id": "B3181D9A-FE65-4A8C-8706-7470C644813C"
+    },
+    {
+      "class": "text",
+      "id": "F7949F1D-E7B5-42C7-B63E-580F2FC4CB5D"
+    },
+    {
+      "class": "text",
+      "id": "E3A8F0DC-853B-40CA-81C4-819E0944D55F"
+    },
+    {
+      "class": "text",
+      "id": "1444DE52-E4EE-4AF3-9E3A-417D547BCB27"
+    },
+    {
+      "class": "text",
+      "id": "91B2E7BD-50FB-4307-95D8-13EBF9205030"
+    },
+    {
+      "class": "text",
+      "id": "47851D42-FFA1-485A-A41F-3CEDD40CB9CE"
+    },
+    {
+      "class": "text",
+      "id": "A04A6D47-3B3B-408D-AEE3-7144E39380A8"
+    },
+    {
+      "class": "text",
+      "id": "AD4953A8-E2FF-4AFF-8704-50C35778E112"
+    },
+    {
+      "class": "group",
+      "id": "88CC2159-1D9B-4D35-8A8A-09F10022B800"
+    },
+    {
+      "class": "bitmap",
+      "id": "1851BD71-EA2F-4A96-9F49-0986D7CA6B62"
+    },
+    {
+      "class": "text",
+      "id": "DD317ED6-2A15-4B09-8911-E305A89C28E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "B2A8D335-C331-4D47-8916-B7B7848F5F3E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D413C6AE-DCEC-4CB1-912E-1428D9F6517F"
+    },
+    {
+      "class": "rectangle",
+      "id": "97ED1446-D4C3-4376-B0D7-D145AC33CDD6"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F24E500-D7F7-4748-BC76-F33BF8776531"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 64,
+    "do_objectID": "2297CB18-445F-46FD-9869-9ADC04AA6C42",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "Mobile - IR Landing",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F63E244B-AE91-410F-8F6F-378D6E4CF2BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2862EB64-AE14-49A0-95F2-C15AD12F28BC",
+    "guides": [
+    ]
+  }
+}

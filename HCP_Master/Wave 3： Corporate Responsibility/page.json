@@ -1,0 +1,90 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F96ABAB7-3B8F-43E1-909C-2F697955B18A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -498,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8FBF2ED1-7CCB-4B44-AC01-102731C76BDC"
+    },
+    {
+      "class": "artboard",
+      "id": "C36D5D95-6165-460A-93DA-FCC883490FA3"
+    },
+    {
+      "class": "artboard",
+      "id": "79808D5F-052E-410F-B5F1-E43D966AC6AD"
+    },
+    {
+      "class": "artboard",
+      "id": "495915C2-49CA-4B0E-A016-DE10005C7319"
+    },
+    {
+      "class": "artboard",
+      "id": "14C203A4-909B-4DAE-89A7-C1446D6345CE"
+    },
+    {
+      "class": "artboard",
+      "id": "DFCCC3DE-404E-40E6-806D-DD625EF15B79"
+    },
+    {
+      "class": "artboard",
+      "id": "6B5F05D1-2B88-4FF0-874D-7A0B3511FB24"
+    }
+  ],
+  "name": "Wave 3: Corporate Responsibility",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -456,
+    "guides": [
+    ]
+  }
+}
